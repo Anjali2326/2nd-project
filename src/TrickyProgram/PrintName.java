@@ -87,7 +87,7 @@ public class PrintName {
 	            else if (c == 'R')
 
 	                System.out.println("  ######  \n  #    # \n  # ##   \n  #   #   \n  #    #  \n\n");
-	else if (c == 'S')
+             	else if (c == 'S')
 
 	                System.out.println("  ######    \n  #      \n  ######  \n       #  \n  ######   \n\n");
 
